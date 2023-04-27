@@ -1,2 +1,1 @@
-# Cypress-cucumber
-Demo testing with cypress and cucumber
+Cypress and Cucumber test
